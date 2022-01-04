@@ -1,0 +1,17 @@
+C:\- Programação\Projetos\Projetos C#\TesteDash\TesteDash.Infra.Data\bin\Debug\net6.0\TesteDash.Infra.Data.deps.json
+C:\- Programação\Projetos\Projetos C#\TesteDash\TesteDash.Infra.Data\bin\Debug\net6.0\TesteDash.Infra.Data.runtimeconfig.json
+C:\- Programação\Projetos\Projetos C#\TesteDash\TesteDash.Infra.Data\bin\Debug\net6.0\TesteDash.Infra.Data.dll
+C:\- Programação\Projetos\Projetos C#\TesteDash\TesteDash.Infra.Data\bin\Debug\net6.0\ref\TesteDash.Infra.Data.dll
+C:\- Programação\Projetos\Projetos C#\TesteDash\TesteDash.Infra.Data\bin\Debug\net6.0\TesteDash.Infra.Data.pdb
+C:\- Programação\Projetos\Projetos C#\TesteDash\TesteDash.Infra.Data\obj\Debug\net6.0\TesteDash.Infra.Data.csproj.AssemblyReference.cache
+C:\- Programação\Projetos\Projetos C#\TesteDash\TesteDash.Infra.Data\obj\Debug\net6.0\TesteDash.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\- Programação\Projetos\Projetos C#\TesteDash\TesteDash.Infra.Data\obj\Debug\net6.0\TesteDash.Infra.Data.AssemblyInfoInputs.cache
+C:\- Programação\Projetos\Projetos C#\TesteDash\TesteDash.Infra.Data\obj\Debug\net6.0\TesteDash.Infra.Data.AssemblyInfo.cs
+C:\- Programação\Projetos\Projetos C#\TesteDash\TesteDash.Infra.Data\obj\Debug\net6.0\TesteDash.Infra.Data.csproj.CoreCompileInputs.cache
+C:\- Programação\Projetos\Projetos C#\TesteDash\TesteDash.Infra.Data\obj\Debug\net6.0\TesteDash.Infra.Data.dll
+C:\- Programação\Projetos\Projetos C#\TesteDash\TesteDash.Infra.Data\obj\Debug\net6.0\ref\TesteDash.Infra.Data.dll
+C:\- Programação\Projetos\Projetos C#\TesteDash\TesteDash.Infra.Data\obj\Debug\net6.0\TesteDash.Infra.Data.pdb
+C:\- Programação\Projetos\Projetos C#\TesteDash\TesteDash.Infra.Data\obj\Debug\net6.0\TesteDash.Infra.Data.genruntimeconfig.cache
+C:\- Programação\Projetos\Projetos C#\TesteDash\TesteDash.Infra.Data\bin\Debug\net6.0\TesteDash.Domain.dll
+C:\- Programação\Projetos\Projetos C#\TesteDash\TesteDash.Infra.Data\bin\Debug\net6.0\TesteDash.Domain.pdb
+C:\- Programação\Projetos\Projetos C#\TesteDash\TesteDash.Infra.Data\obj\Debug\net6.0\TesteDash.Infra.Data.csproj.CopyComplete

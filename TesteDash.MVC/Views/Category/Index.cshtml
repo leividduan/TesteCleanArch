@@ -1,0 +1,37 @@
+﻿@model IEnumerable<CategoryViewModel>
+
+@if (Model != null && Model.Any())
+{
+    <div>
+        <button type="button" onclick="Teste()">Cadastrar nova categoria aleatória</button>
+    </div>
+    <div>
+        <table>
+            <tr>
+                <th>Id</th>
+                <th>Nome</th>
+            </tr>
+            @foreach (var item in Model)
+            {
+                <tr>
+
+                    <td>@item.ID_Category</td>
+                    <td>@item.Name</td>
+                </tr>
+
+            }
+        </table>
+    </div>
+
+}
+else
+{
+    <p>Sem registros. Deseja cadastrar?</p> @Html.ActionLink("Clique aqui", "Create", "Category")
+}
+
+<script>
+    function Teste(){
+        fetch('@Url.Action("Create","Category")', {method: 'POST'})
+        .then((response) => window.location.reload())
+    }
+</script>

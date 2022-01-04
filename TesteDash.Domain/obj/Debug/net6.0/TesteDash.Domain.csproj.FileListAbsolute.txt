@@ -1,0 +1,12 @@
+C:\- Programação\Projetos\Projetos C#\TesteDash\TesteDash.Domain\bin\Debug\net6.0\TesteDash.Domain.deps.json
+C:\- Programação\Projetos\Projetos C#\TesteDash\TesteDash.Domain\bin\Debug\net6.0\TesteDash.Domain.dll
+C:\- Programação\Projetos\Projetos C#\TesteDash\TesteDash.Domain\bin\Debug\net6.0\ref\TesteDash.Domain.dll
+C:\- Programação\Projetos\Projetos C#\TesteDash\TesteDash.Domain\bin\Debug\net6.0\TesteDash.Domain.pdb
+C:\- Programação\Projetos\Projetos C#\TesteDash\TesteDash.Domain\obj\Debug\net6.0\TesteDash.Domain.csproj.AssemblyReference.cache
+C:\- Programação\Projetos\Projetos C#\TesteDash\TesteDash.Domain\obj\Debug\net6.0\TesteDash.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\- Programação\Projetos\Projetos C#\TesteDash\TesteDash.Domain\obj\Debug\net6.0\TesteDash.Domain.AssemblyInfoInputs.cache
+C:\- Programação\Projetos\Projetos C#\TesteDash\TesteDash.Domain\obj\Debug\net6.0\TesteDash.Domain.AssemblyInfo.cs
+C:\- Programação\Projetos\Projetos C#\TesteDash\TesteDash.Domain\obj\Debug\net6.0\TesteDash.Domain.csproj.CoreCompileInputs.cache
+C:\- Programação\Projetos\Projetos C#\TesteDash\TesteDash.Domain\obj\Debug\net6.0\TesteDash.Domain.dll
+C:\- Programação\Projetos\Projetos C#\TesteDash\TesteDash.Domain\obj\Debug\net6.0\ref\TesteDash.Domain.dll
+C:\- Programação\Projetos\Projetos C#\TesteDash\TesteDash.Domain\obj\Debug\net6.0\TesteDash.Domain.pdb

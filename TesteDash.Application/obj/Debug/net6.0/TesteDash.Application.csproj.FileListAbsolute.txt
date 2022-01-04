@@ -1,0 +1,15 @@
+C:\- Programação\Projetos\Projetos C#\TesteDash\TesteDash.Application\bin\Debug\net6.0\TesteDash.Application.deps.json
+C:\- Programação\Projetos\Projetos C#\TesteDash\TesteDash.Application\bin\Debug\net6.0\TesteDash.Application.dll
+C:\- Programação\Projetos\Projetos C#\TesteDash\TesteDash.Application\bin\Debug\net6.0\ref\TesteDash.Application.dll
+C:\- Programação\Projetos\Projetos C#\TesteDash\TesteDash.Application\bin\Debug\net6.0\TesteDash.Application.pdb
+C:\- Programação\Projetos\Projetos C#\TesteDash\TesteDash.Application\bin\Debug\net6.0\TesteDash.Domain.dll
+C:\- Programação\Projetos\Projetos C#\TesteDash\TesteDash.Application\bin\Debug\net6.0\TesteDash.Domain.pdb
+C:\- Programação\Projetos\Projetos C#\TesteDash\TesteDash.Application\obj\Debug\net6.0\TesteDash.Application.csproj.AssemblyReference.cache
+C:\- Programação\Projetos\Projetos C#\TesteDash\TesteDash.Application\obj\Debug\net6.0\TesteDash.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\- Programação\Projetos\Projetos C#\TesteDash\TesteDash.Application\obj\Debug\net6.0\TesteDash.Application.AssemblyInfoInputs.cache
+C:\- Programação\Projetos\Projetos C#\TesteDash\TesteDash.Application\obj\Debug\net6.0\TesteDash.Application.AssemblyInfo.cs
+C:\- Programação\Projetos\Projetos C#\TesteDash\TesteDash.Application\obj\Debug\net6.0\TesteDash.Application.csproj.CoreCompileInputs.cache
+C:\- Programação\Projetos\Projetos C#\TesteDash\TesteDash.Application\obj\Debug\net6.0\TesteDash.Application.csproj.CopyComplete
+C:\- Programação\Projetos\Projetos C#\TesteDash\TesteDash.Application\obj\Debug\net6.0\TesteDash.Application.dll
+C:\- Programação\Projetos\Projetos C#\TesteDash\TesteDash.Application\obj\Debug\net6.0\ref\TesteDash.Application.dll
+C:\- Programação\Projetos\Projetos C#\TesteDash\TesteDash.Application\obj\Debug\net6.0\TesteDash.Application.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "McBUhqCjZEJyO0Fl0znn4oRYzbt88LSE7H7lqoQXCQR5IjO9zFkh8qS/y+TMRLnM/kMNpcAw+1U8rzgQQ6qqcA==",
+  "success": true,
+  "projectFilePath": "C:\\- Programação\\Projetos\\Projetos C#\\TesteDash\\TesteDash.Application\\TesteDash.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Deivid\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Deivid\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Deivid\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
